@@ -5,10 +5,7 @@
 * [Python](http://python-groups.blogspot.com/2010/11/pittsburgh-python-user-group-1st.html)
 * [Python](http://pghpython.org/)
 * [Pittsburgh CocoaHeads](http://cocoaheads.org/us/PittsburghPennsylvania/index.html)
-
-
-
-
+* [WPLUG](http://wplug.org/)
 
 
 * [Pghtech user groups](http://www.pghtech.org/networks/user-groups.aspx)
